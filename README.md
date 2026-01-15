@@ -1,0 +1,1 @@
+I'm told that I should reflect on my project progress at the end. Still trying to remember the sequences for comitting to git.
